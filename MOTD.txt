@@ -1,4 +1,1 @@
--Message of the day-
-Welcome to version0.0.1!
-There is nothing much because this is beta testing but enjoy otherwise!
-Have fun!
+balls
